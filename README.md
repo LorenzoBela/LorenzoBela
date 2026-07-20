@@ -12,9 +12,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LorenzoBela&theme=great-gatsby&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LorenzoBela&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=LorenzoBela&icon=9&color=12)](https://visitcount.itsvg.in)
 
