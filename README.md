@@ -15,25 +15,25 @@
 
 I am a Computer Engineering professional specializing in full-stack ecosystems, real-time web applications, and hardware telemetry tracking. I operate at the intersection of modern software frameworks and physical hardware integration[cite: 1].
 
-* **Full-Stack Architecture:** Developing robust, real-time platforms using Next.js, TypeScript, Prisma, and modern backend architectures[cite: 1].
-* **IoT and Embedded Systems:** Engineering hardware automation layers, custom telemetry routines, and firmware solutions via PlatformIO and Arduino[cite: 1].
-* **Data Engineering:** Designing systems featuring comprehensive audit metrics, structured relational databases, and high-velocity real-time tracking integration[cite: 1].
+* **Full-Stack Architecture:** Developing robust, real-time platforms using Next.js, TypeScript, Prisma, and modern backend architectures.
+* **IoT and Embedded Systems:** Engineering hardware automation layers, custom telemetry routines, and firmware solutions via PlatformIO and Arduino.
+* **Data Engineering:** Designing systems featuring comprehensive audit metrics, structured relational databases, and high-velocity real-time tracking integration.
 
 ---
 
 # Featured Projects
 
 ### Parcel-Safe
-An IoT-enabled hardware and software ecosystem built to deliver secure, automated logistics and delivery tracking[cite: 1].
-* **Tech Stack:** Next.js, TypeScript, React Native, Expo, Prisma, PostgreSQL, Supabase, Firebase RTDB, PlatformIO, C++[cite: 1]
-* **Core Function:** Real-time cargo box integration, secure web guest portals, and interactive client/rider mobile applications[cite: 1].
+An IoT-enabled hardware and software ecosystem built to deliver secure, automated logistics and delivery tracking.
+* **Tech Stack:** Next.js, TypeScript, React Native, Expo, Prisma, PostgreSQL, Supabase, Firebase RTDB, PlatformIO, C++
+* **Core Function:** Real-time cargo box integration, secure web guest portals, and interactive client/rider mobile applications.
 
 ### S-Pay BNPL Expenses Tracker
-A complete billing and expense management platform migrated from a legacy PHP/MySQL stack to a modern React ecosystem[cite: 1].
-* **Tech Stack:** Next.js, React Native, Expo, TypeScript, Prisma, PostgreSQL, Supabase, Tailwind CSS, Framer Motion, Gemini API[cite: 1]
-* **Core Function:** Administrative and client web portal orchestration alongside a mobile companion offering native biometrics verification[cite: 1].
+A complete billing and expense management platform migrated from a legacy PHP/MySQL stack to a modern React ecosystem.
+* **Tech Stack:** Next.js, React Native, Expo, TypeScript, Prisma, PostgreSQL, Supabase, Tailwind CSS, Framer Motion, Gemini API
+* **Core Function:** Administrative and client web portal orchestration alongside a mobile companion offering native biometrics verification.
 
 ### Noots School Tracker
-An offline-first, multi-device attendance and payments platform implementing a resilient sync ecosystem[cite: 1].
-* **Tech Stack:** Next.js, React Native, Expo, SQLite, Dexie, Supabase, TypeScript[cite: 1]
-* **Core Function:** Client-centric synchronization handling that robustly mirrors local transactions onto a Supabase backend[cite: 1].
+An offline-first, multi-device attendance and payments platform implementing a resilient sync ecosystem.
+* **Tech Stack:** Next.js, React Native, Expo, SQLite, Dexie, Supabase, TypeScript
+* **Core Function:** Client-centric synchronization handling that robustly mirrors local transactions onto a Supabase backend.
